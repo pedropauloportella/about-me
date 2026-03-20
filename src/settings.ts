@@ -4,22 +4,23 @@ export const profile = {
 	institute: '',
 	author_name: '', // Author name to be highlighted in the papers section
 	research_areas: [
-		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
+		 { title: 'Physics', description: 'Brief description of the research interest', field: 'Computational' },
+		 { title: 'Engneering', description: 'Brief description of the research interest', field: 'Computational' }
 	],
 }
 
 // Set equal to an empty string to hide the icon that you don't want to display
 export const social = {
-	email: '',
+	email: 'pedropauloportella@ufrj.br',
 	linkedin: '',
 	x: 'https://www.x.com/',
 	bluesky: '',
-	github: '',
+	github: 'https://github.com/pedropauloportella',
 	gitlab: '',
 	scholar: '',
 	inspire: '',
 	arxiv: '',
-	orcid: '',
+	orcid: 'https://orcid.org/0009-0004-6406-9346'
 }
 
 export const template = {
@@ -34,7 +35,7 @@ export const template = {
 }
 
 export const seo = {
-	default_title: 'Astro Academia',
+	default_title: 'Pedro Paulo Neves Portella',
 	default_description: 'Astro Academia is a template for academic websites.',
 	default_image: '/images/astro-academia.png',
 }

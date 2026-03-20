@@ -77,6 +77,22 @@ export const publications = [
 		link: 'https://books.google.com.br/books/about?id=vSq7EQAAQBAJ',
 		abstract: 'Descubra os fundamentos da escrita científica com este guia. Aprenda a estruturar artigos de excelência, explore métodos rigorosos de revisão bibliográfica e obtenha dicas práticas para planejamento de experimentos e análise crítica de dados. Transforme suas descobertas em relatórios claros para facilitar a validação por pares e a publicação em periódicos. ',
 	},
+	{
+		title: 'Inovação e Transformação Digital na Educação: O Papel da Inteligência Artificial na Gestão e no Processo de Ensino e Aprendizagem.',
+		authors: 'Pedro Paulo Neves Portella',
+		journal: ' Revista de Gestão e Secretariado',
+		time: '2026',
+		link: 'https://doi.org/10.7769/gesec.v17i1.5521',
+		abstract: 'O objetivo desta pesquisa foi analisar a inovação e a transformação digital na educação, com foco no papel da inteligência artificial na gestão educacional e no processo de ensino e aprendizagem. Tratou-se de um estudo de abordagem qualitativa, desenvolvido por meio do método de relato de experiência, com a participação de seis professores, cujos dados foram coletados por meio de entrevistas em profundidade.',
+	},
+	{
+		title: 'INOVAÇÃO, GESTÃO E TECNOLOGIAS EM SAÚDE: OS IMPACTOS DA INTELIGÊNCIA ARTIFICIAL SOBRE OS SERVIÇOS.',
+		authors: 'Pedro Paulo Neves Portella',
+		journal: ' Revista DCS',
+		time: '2025',
+		link: 'https://doi.org/10.54899/dcs.v22i84.3913',
+		abstract: 'O presente estudo teve como objetivo analisar os impactos da inteligência artificial (IA) sobre os serviços de saúde, considerando tanto os aspectos clínicos quanto a gestão organizacional. Para tanto, adotou-se a metodologia de revisão integrativa, com levantamento de artigos publicados entre 2022 e 2024 nas bases SciELO, Google Scholar e Scopus, utilizando palavras-chave relacionadas a inteligência artificial, inovação, gestão em saúde e tecnologias aplicadas, combinadas com operadores booleanos “AND” e “OR”.',
+	},
 	// {
 	// 	title: 'The Radiation of Uranium Compounds',
 	// 	authors: 'Marie Curie',

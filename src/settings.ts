@@ -24,7 +24,7 @@ export const social = {
 
 export const template = {
 	website_url: 'https://pedropauloportella.github.io/about-me/', // Astro needs to know your site’s deployed URL to generate a sitemap. It must start with http:// or https://
-	menu_left: true,
+	menu_left: false,
 	transitions: true,
 	lightTheme: 'light', // Select one of the Daisy UI Themes or create your own
 	darkTheme: 'dark', // Select one of the Daisy UI Themes or create your own

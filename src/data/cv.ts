@@ -34,7 +34,14 @@ export const education = [
 		school: 'Universidade Estácio de Sá',
 		time: '2030',
 		degree: 'Bacharel em Engenharia de Computação',
-		location: 'Rio de Janeiro',
+		location: 'Rio de Janeiro, RJ',
+		description: '',
+	},
+	{
+		school: 'Universidade Federal Do Rio de Janeiro UFRJ',
+		time: '2028',
+		degree: 'Licenciatura em Física',
+		location: 'Rio de Janeiro, RJ',
 		description: '',
 	},
 	// {
@@ -48,8 +55,12 @@ export const education = [
 
 export const skills = [
 	{
-		title: 'Pesquisa e Desenvolvimento',
-		description: 'Auxilia em grupos de pesquisa resolvendo problemas com métodos computacionais',
+		title: 'Pesquisa Científica',
+		description: 'Auxilia grupos de pesquisa resolvendo problemas com métodos computacionais, elabora relatórios, documentos técnicas e escreve artigos acadêmicos.',
+	},
+	{
+		title: 'Modelagem matemática e computacional',
+		description: 'Combina conceitos matemáticos com técnicas de computação para resolver problemas, descrever, analisar e prever comportamentos de sistemas reais..',
 	},
 	// {
 	// 	title: 'Experimental Techniques',
@@ -61,7 +72,7 @@ export const publications = [
 	{
 		title: 'Cozinhando Um Artigo: Uma Receita De Bolo Para Escrever E Publicar O Seu Primeiro Artigo Científico.',
 		authors: 'Ana Caroline da Silva Vieira, Pedro Paulo Neves Portella',
-		journal: 'Instituto Computacional',
+		journal: 'Instituto Poder Computacional',
 		time: '2026',
 		link: 'https://books.google.com.br/books/about?id=vSq7EQAAQBAJ',
 		abstract: 'Descubra os fundamentos da escrita científica com este guia. Aprenda a estruturar artigos de excelência, explore métodos rigorosos de revisão bibliográfica e obtenha dicas práticas para planejamento de experimentos e análise crítica de dados. Transforme suas descobertas em relatórios claros para facilitar a validação por pares e a publicação em periódicos. ',

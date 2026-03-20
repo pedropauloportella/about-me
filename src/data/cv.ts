@@ -56,7 +56,7 @@ export const education = [
 export const skills = [
 	{
 		title: 'Pesquisa Científica',
-		description: 'Auxilia grupos de pesquisa resolvendo problemas com métodos computacionais, elabora relatórios, documentos técnicas e escreve artigos acadêmicos.',
+		description: 'Auxilia grupos de pesquisa resolvendo problemas com métodos computacionais, faz análise e curadoria de dados, elabora relatórios, documentos técnicas e escreve artigos acadêmicos.',
 	},
 	{
 		title: 'Modelagem matemática e computacional',

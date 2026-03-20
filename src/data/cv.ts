@@ -1,10 +1,10 @@
 export const experiences = [
 	{
-		company: '',
-		time: '',
-		title: '',
-		location: '',
-		description: '',
+		company: 'Escola Rural São Vicente de Paulo',
+		time: '2022-2023',
+		title: 'Teacher',
+		location: 'Rio de Janeiro, Brasil',
+		description: 'STEM Teacher',
 	},
 	// {
 	// 	company: 'Radium Institute (Institut du Radium)',

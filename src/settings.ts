@@ -36,6 +36,6 @@ export const template = {
 
 export const seo = {
 	default_title: 'Pedro Paulo Neves Portella',
-	default_description: 'Astro Academia is a template for academic websites.',
+	default_description: 'Discente em Licenciatura em Física na Universidade Federal do Rio de Janeiro (UFRJ) e graduando em Engenharia de Computação na Universidade Estácio de Sá (UNESA), possui formação técnica em Eletrônica(IETAAM), com registro ativo no Conselho Federal de Técnicos (CFT). Atuou como professor de Cálculo Técnico e Tecnologia na Escola Rural São Vicente de Paulo, onde contribuiu para a formação de centenas de estudantes do ensino fundamental I e II, nas áreas de Ciência, Tecnologia, Engenharia e Matemáticas(STEM). Membro do Clube de Engenharia do Brasil, participa ativamente de iniciativas que promovem o desenvolvimento profissional e a troca de conhecimentos técnicos. Atua como consultor de TI, Computação Científica e Ciência Aberta em grupos de pesquisa e novos empreendimentos, desenvolvendo soluções inovadoras para vencer os desafios do século 21. É egresso do programa "NASA Open Science", atuando como instrutor de estudantes e pesquisadores nas práticas de ciência aberta. Além de ser desenvolvedor de software, cria soluções computacionais que visam facilitar processos e otimizar resultados. Também integra a rede de empreendimentos sustentáveis da aceleradora Shell Iniciativa Jovem, comprometendo-se com o desenvolvimento de práticas que respeitam o meio ambiente e promovem a sustentabilidade e a equidade social..',
 	default_image: '/images/astro-academia.png',
 }

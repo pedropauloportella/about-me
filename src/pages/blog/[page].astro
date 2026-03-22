@@ -54,8 +54,8 @@ const { page } = Astro.props
 								})}
 							</time>
 							<p class='mt-4'>{post.excerpt}</p>
-							<p class='text-sm text-base-content/71'>{post.data.author}</p>
-							<span id="author" set:html={highlightAuthor(post.author)} />
+							<p class='text-sm text-base-content/71'>{template.profile.author_name}</p>
+							
 							<div class='card-actions justify-end'>
 								<a
                             href={post.slug}

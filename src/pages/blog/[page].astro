@@ -15,7 +15,7 @@ export async function getStaticPaths({ paginate }): Promise<Astro.getStaticPaths
             badge: post.data.tags[0],
             excerpt: trimExcerpt(post.data.excerpt),
             slug: `${template.base}/blog/${post.id}`,
-			author: post.data.author
+			author: post.data.title
         }))
         .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 

@@ -53,4 +53,4 @@ A inteligência artificial consolidou-se como um catalisador estratégico para o
 
 Estamos preparados para confiar nas máquinas o suporte de nossas vidas, mantendo a ética e a humanidade como o filtro final de cada decisão?
 
-Baseado no Artigo: INOVAÇÃO, GESTÃO E TECNOLOGIAS EM SAÚDE: OS IMPACTOS DA INTELIGÊNCIA ARTIFICIAL SOBRE OS SERVIÇOS. 
+Baseado no Artigo: [INOVAÇÃO, GESTÃO E TECNOLOGIAS EM SAÚDE: OS IMPACTOS DA INTELIGÊNCIA ARTIFICIAL SOBRE OS SERVIÇOS](https://doi.org/10.54899/dcs.v22i84.3913)

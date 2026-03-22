@@ -2,7 +2,7 @@ export const profile = {
 	fullName: 'Pedro Paulo Neves Portella',
 	title: 'Diretor de Tecnologia',
 	institute: 'Instituto Poder Computacional',
-	author_name: 'Portella, Pedro Paulo Neves', // Author name to be highlighted in the papers section
+	author_name: 'Pedro Paulo Neves Portella', // Author name to be highlighted in the papers section
 	research_areas: [
 		{ title: 'Computer Engneering', description: 'Brief description of the research interest', field: 'Computational' }, 
 		{ title: 'Physics Education', description: 'Brief description of the research interest', field: 'Computational' },

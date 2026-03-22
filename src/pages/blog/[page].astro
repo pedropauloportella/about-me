@@ -14,7 +14,7 @@ export async function getStaticPaths({ paginate }): Promise<Astro.getStaticPaths
             date: post.data.date,
             badge: post.data.tags[0],
             excerpt: trimExcerpt(post.data.excerpt),
-            slug: `${template.base}/blog/${post.id}`,
+            slug: `${template.base}/blog/${post.name + post.id}`,
 			author: post.data.author
         }))
         .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
@@ -43,7 +43,7 @@ const { page } = Astro.props
 								<div class='badge badge-accent badge-outline p-4'>
 									{post.badge}
 								</div>
-								<div>{post.author}</div>
+								<div><p>{post.author}</p></div>
 									
 							</div>
 							<time datetime={post.date} class='text-sm text-base-content/71'>

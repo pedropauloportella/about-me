@@ -2,7 +2,7 @@
 title: "O Futuro do Cuidado: 5 Lições Vitais sobre a Inteligência Artificial na Saúde"
 author: Pedro Paulo Portella
 date: "2026-03-01"
-tags: ["research", "health"]
+tags: ["Pesquisa", "Saúde", Inteligência Artificial]
 excerpt: "Cinco lições essenciais sobre como a IA está transformando gestão, diagnóstico, medicina de precisão e os desafios éticos e infraestruturais na saúde."
 ---
 
@@ -52,3 +52,5 @@ Como apontado por Alonso et al. (2022), a fragmentação de plataformas e a falt
 A inteligência artificial consolidou-se como um catalisador estratégico para o setor de saúde, unindo a eficiência administrativa à precisão clínica. O futuro, no entanto, não será moldado apenas por códigos, mas pela nossa capacidade de integrar essa inteligência à prática humana de forma consciente, ética e planejada. O sucesso dessa evolução depende de profissionais capacitados e instituições preparadas para usar a tecnologia como um amplificador da vida, e não apenas como um redutor de custos.
 
 Estamos preparados para confiar nas máquinas o suporte de nossas vidas, mantendo a ética e a humanidade como o filtro final de cada decisão?
+
+Baseado no Artigo: INOVAÇÃO, GESTÃO E TECNOLOGIAS EM SAÚDE: OS IMPACTOS DA INTELIGÊNCIA ARTIFICIAL SOBRE OS SERVIÇOS. 

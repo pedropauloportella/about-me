@@ -37,7 +37,7 @@ const { page } = Astro.props
 							<div class='flex justify-between items-start'>
 								<h2 class='card-title text-xl'>
                             <a href={post.slug} class='hover:text-accent'>
-										{post.author}
+										{post.title}
 									</a>
 								</h2>
 								<div class='badge badge-accent badge-outline p-4'>
@@ -54,7 +54,7 @@ const { page } = Astro.props
 								})}
 							</time>
 							<p class='mt-4'>{post.excerpt}</p>
-							<p class='mt-4'>{post.title}</p>
+							<p class='text-sm text-base-content/71'>{post.author}</p>
 							<div class='card-actions justify-end'>
 								<a
                             href={post.slug}

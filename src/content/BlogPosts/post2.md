@@ -2,7 +2,7 @@
 title: "O Futuro do Cuidado: 5 Lições Vitais sobre a Inteligência Artificial na Saúde"
 author: Pedro Paulo Portella
 date: "2026-03-01"
-tags: ["Pesquisa", "Saúde", Inteligência Artificial]
+tags: ["Inteligência Artificial", "Saúde", "Pesquisa Científica" ]
 excerpt: "Cinco lições essenciais sobre como a IA está transformando gestão, diagnóstico, medicina de precisão e os desafios éticos e infraestruturais na saúde."
 ---
 

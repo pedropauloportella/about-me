@@ -17,11 +17,23 @@ export async function getStaticPaths(): Promise<Array<{ params: { slug: string }
     return posts
 }
 const {post} = Astro.props;
-const { title, date, tags, author} = post.data; 
+const { title, date, tags, author, abstract} = post.data; 
 const { Content } = await render(post);
 ---
 
 <Layout title={title}>
+<head>    
+<meta name="description" content="Lista de publicações acadêmicas do autor." />    
+<meta name="keywords" content={tags} />    
+<meta name="author" content={author} />    
+{
+ALL_PAPERS.map(paper => (      <>        
+	<meta property="article:author" content={author} />        
+	<meta property="article:title" content={title} />        
+	<meta property="article:published_time" content={date} />        
+	<meta property="article:section" content="" />        
+	<meta property="article:summary" content={abstract} />      </>    ))}  
+</head>
 	<div class='max-w-4xl mx-auto'>
 		<article
 			class='prose max-w-none prose-headings:text-base-content prose-p:text-base-content/80'

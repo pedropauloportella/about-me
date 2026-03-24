@@ -24,7 +24,7 @@ export async function getStaticPaths({ paginate }): Promise<Astro.getStaticPaths
     });
 }
 const { page } = Astro.props
-const author = post.data.author
+const author = posts.author
 console.log("Author: " + author)
 ---
 
@@ -55,8 +55,8 @@ console.log("Author: " + author)
 									day: 'numeric',
 								})}
 							</time>
-							<p class='mt-4'>{post.excerpt}{post.author}</p>
-							<p class='mt-4'>{posts.author}</p>
+							<p class='mt-4'>{post.excerpt}{author}</p>
+							<p class='mt-4'>{author}</p>
 							
 							<div class='card-actions justify-end'>
 								<a

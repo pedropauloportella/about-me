@@ -4,7 +4,6 @@ date: "1902-12-26"
 tags: ["Physics", "Research"]
 excerpt: "An account of the discovery of radium and its properties."
 author: "Marie Curie"
-abstract: ""
 ---
 
 # The Discovery of Radium

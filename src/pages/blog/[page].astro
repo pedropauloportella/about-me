@@ -4,6 +4,7 @@ import Layout from '@/layouts/Layout.astro'
 import { trimExcerpt } from '@/lib/utils'
 import { template } from '@/settings'
 import { getCollection } from 'astro:content'
+import { profile } from '@/settings'
 
 export async function getStaticPaths({ paginate }): Promise<Astro.getStaticPathsResult> {
     const blogEntries = await getCollection("blog");
@@ -55,7 +56,7 @@ const { page } = Astro.props
 								})}
 							</time>
 							<p class='mt-4'>{post.excerpt}{post.author}</p>
-							<p class='mt-4'>{template.profile.author_name}</p>
+							<p class='mt-4'>{profile.author_name}</p>
 							
 							<div class='card-actions justify-end'>
 								<a

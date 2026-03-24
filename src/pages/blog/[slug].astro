@@ -17,7 +17,7 @@ export async function getStaticPaths(): Promise<Array<{ params: { slug: string }
     return posts
 }
 const {post} = Astro.props;
-const { title, date, tags, author, abstract} = post.data; 
+const { title, date, tags, author, excerpt} = post.data; 
 const { Content } = await render(post);
 ---
 
@@ -32,7 +32,7 @@ ALL_PAPERS.map(paper => (      <>
 	<meta property="article:title" content={title} />        
 	<meta property="article:published_time" content={date} />        
 	<meta property="article:section" content="" />        
-	<meta property="article:summary" content={abstract} />      </>    ))}  
+	<meta property="article:summary" content={excerpt} />      </>    ))}  
 </head>
 	<div class='max-w-4xl mx-auto'>
 		<article

@@ -4,7 +4,6 @@ import Layout from '@/layouts/Layout.astro'
 import { trimExcerpt } from '@/lib/utils'
 import { template } from '@/settings'
 import { getCollection } from 'astro:content'
-const author = ""
 
 export async function getStaticPaths({ paginate }): Promise<Astro.getStaticPathsResult> {
     const blogEntries = await getCollection("blog");
@@ -19,14 +18,14 @@ export async function getStaticPaths({ paginate }): Promise<Astro.getStaticPaths
             author: post.data.author
         }))
         .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+    console.log("Author: " + author)
     return paginate(posts, {
         pageSize: template.postPerPage,
     });
-author = posts.author;
 }
 
 const { page } = Astro.props
-console.log("Author: " + author)
+
 ---
 
 <Layout title='Blog'>

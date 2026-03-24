@@ -19,7 +19,7 @@ export async function getStaticPaths({ paginate }): Promise<Astro.getStaticPaths
             author: post.data.author
         }))
         .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
-        author = this.author;
+        author = this.posts.author;
     return paginate(posts, {
         pageSize: template.postPerPage,
     });

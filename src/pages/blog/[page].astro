@@ -22,8 +22,9 @@ export async function getStaticPaths({ paginate }): Promise<Astro.getStaticPaths
     return paginate(posts, {
         pageSize: template.postPerPage,
     });
-}
 author = posts.author;
+}
+
 const { page } = Astro.props
 console.log("Author: " + author)
 ---

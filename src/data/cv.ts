@@ -24,7 +24,7 @@ export const experiences = [
 		company: 'PUC-Rio',
 		time: '2011-2012',
 		title: 'Iniciação Científica',
-		location: 'Niterói, RJ, Brasil',
+		location: 'Rio de Janeiro, RJ, Brasil',
 		description: 'Assistente de Pesquisa com bolsa de Iniciação Científica da FAPERJ no Laboratório de Antropologia e Processos de Formação(LAPF) do departamento de Educação da PUC-Rio.',
 	},
 	// {

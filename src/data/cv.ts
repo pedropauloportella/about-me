@@ -1,4 +1,4 @@
-import publication from './publications.json'
+import publication from './publicacoes.json'
 export const experiences = [
 	{
 		company: 'Escola Rural São Vicente de Paulo',
@@ -137,7 +137,7 @@ export const bio = 'Graduando em Engenharia de Computação na Universidade Est�
 	
 
 
-export const publications = publications;
+export const publications = publication;
 
 
 	// {

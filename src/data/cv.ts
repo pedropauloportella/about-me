@@ -1,4 +1,3 @@
-import publication from './publicacoes.json'
 export const experiences = [
 	{
 		company: 'Escola Rural São Vicente de Paulo',
@@ -137,7 +136,103 @@ export const bio = 'Graduando em Engenharia de Computação na Universidade Est�
 	
 
 
-export const publications = publication;
+export const publications = [
+  {
+    "title": "Laboratório de Antropologia dos Processos de Formação – Lapf",
+    "authors": "Laboratório de Antropologia dos Process Lapf; Pedro Paulo Neves Portella; Pedro Paulo Neves Portella",
+    "journal": "Cadernos de Campo (São Paulo - 1991)",
+    "time": "2011",
+    "link": "https://doi.org/10.11606/issn.2316-9133.v20i20p351-353",
+    "abstract": "."
+  },
+  {
+    "title": "INOVAÇÃO, GESTÃO E TECNOLOGIAS EM SAÚDE: OS IMPACTOS DA INTELIGÊNCIA ARTIFICIAL SOBRE OS SERVIÇOS",
+    "authors": "Nelson Guilherme do Nascimento Hirschmann; Samantha Ferreira da Costa Moreira; José Nivon da Silva; Manoelise Linhares Ferreira Gomes; José Armir da Costa Neto; Amannda Oliveira Araújo; Pedro Paulo Neves Portella; Lucas José Vaz Schiavao; Alessandro Medeiros Pedro; Pedro Paulo Neves Portella",
+    "journal": "Revista DCS",
+    "time": "2025",
+    "link": "https://doi.org/10.54899/dcs.v22i84.3913",
+    "abstract": "O presente estudo teve como objetivo analisar os impactos da inteligência artificial (IA) sobre os serviços de saúde, considerando tanto os aspectos clínicos quanto a gestão organizacional. Para tanto, adotou-se a metodologia de revisão integrativa, com levantamento de artigos publicados entre 2022 e 2024 nas bases SciELO, Google Scholar e Scopus, utilizando palavras-chave relacionadas a inteligência artificial, inovação, gestão em saúde e tecnologias aplicadas, combinadas com operadores booleanos “AND” e “OR”. Os resultados evidenciaram que a IA contribui para a otimização de processos administrativos, melhoria da tomada de decisão clínica, personalização do atendimento e redução de erros médicos, ao mesmo tempo em que apresenta desafios ligados à infraestrutura tecnológica, capacitação profissional e ética na utilização de algoritmos. Além disso, foi constatado que a implementação efetiva da IA depende de planejamento estratégico, protocolos claros, governança ética e integração com a prática humana, reforçando que a tecnologia potencializa, mas não substitui, o cuidado profissional. Conclui-se, portanto, que a inteligência artificial constitui uma ferramenta estratégica indispensável para a inovação no setor de saúde, capaz de promover eficiência, segurança, qualidade do atendimento e humanização, desde que sua aplicação seja realizada de forma consciente, ética e sustentável."
+  },
+  {
+    "title": "Inovação e Transformação Digital na Educação: O Papel da Inteligência Artificial na Gestão e no Processo de Ensino e Aprendizagem",
+    "authors": "Silvia Gomes Correia; Luiz Gustavo Soares Silva; Lissia Maria Costa Gomes Protázio; Lidiane Soares Ferreira; Andressa Silva Guedes; Francisco das Chagas Sampaio Medina; Pedro Paulo Neves Portella; Francilino Paulo de Sousa",
+    "journal": "Revista de Gestão e Secretariado",
+    "time": "2026",
+    "link": "https://doi.org/10.7769/gesec.v17i1.5521",
+    "abstract": "O objetivo desta pesquisa foi analisar a inovação e a transformação digital na educação, com foco no papel da inteligência artificial na gestão educacional e no processo de ensino e aprendizagem. Tratou-se de um estudo de abordagem qualitativa, desenvolvido por meio do método de relato de experiência, com a participação de seis professores, cujos dados foram coletados por meio de entrevistas em profundidade. A análise das informações ocorreu a partir da técnica do Discurso do Sujeito Coletivo, possibilitando a compreensão das percepções, vivências e desafios relacionados ao uso da inteligência artificial no contexto educacional. Os resultados evidenciaram que a inteligência artificial tem contribuído para a personalização do ensino, a otimização das práticas pedagógicas e o apoio à gestão escolar, favorecendo maior engajamento dos estudantes e inovação nos processos educativos. Contudo, também foram identificadas limitações, como a carência de formação docente, a desigualdade no acesso às tecnologias, resistências institucionais e preocupações éticas quanto ao uso de dados e à mediação pedagógica. Conclui-se que a inteligência artificial representa uma importante ferramenta para a transformação digital na educação, desde que sua implementação ocorra de forma planejada, ética e alinhada aos princípios pedagógicos, reforçando o papel do professor e promovendo uma educação mais inclusiva, crítica e de qualidade."
+  },
+  {
+    "title": "IMPORTÂNCIA DA ENGENHARIA DE SOFTWARE NO DESENVOLVIMENTO DE  PROJETOS",
+    "authors": "Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
+    "journal": "Anais do II Seminário Nacional Multidisciplinar em Pesquisa Científica",
+    "time": "2025",
+    "link": "https://doi.org/10.29327/5665626",
+    "abstract": "Resumo"
+  },
+  {
+    "title": "IMPORTÂNCIA DO PROFISSIONAL DE CIÊNCIAS DA COMPUTAÇÃO NO  DESENVOLVIMENTO DE SISTEMAS",
+    "authors": "Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
+    "journal": "Anais do II Seminário Nacional Multidisciplinar em Pesquisa Científica",
+    "time": "2025",
+    "link": "https://doi.org/10.29327/5665626",
+    "abstract": "Resumo"
+  },
+  {
+    "title": "COMPUTAÇÃO EM NUVEM E SEUS BENEFÍCIOS",
+    "authors": "Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
+    "journal": "Anais do II Seminário Nacional Multidisciplinar em Pesquisa Científica",
+    "time": "2025",
+    "link": "https://doi.org/10.29327/5665626",
+    "abstract": "Resumo"
+  },
+  {
+    "title": "LACUNAS NA FORMAÇÃO DOS PROFISSIONAIS DAS CIÊNCIAS DA  COMPUTAÇÃO",
+    "authors": "Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
+    "journal": "Anais do II Seminário Nacional Multidisciplinar em Pesquisa Científica",
+    "time": "2025",
+    "link": "https://doi.org/10.29327/5665626",
+    "abstract": "Resumo"
+  },
+  {
+    "title": "APLICAÇÃO DE TECNOLOGIAS (APPS, WEARABLES) NO RASTREIO E TRATAMENTO",
+    "authors": "Pedro Paulo Neves Portella; Sonia Denize Clivati Justus",
+    "journal": "Saúde Mental na Era Digital: Desafios e Intervenções.",
+    "time": "2025",
+    "link": "https://1drv.ms/b/c/6dc0c1962a277eb6/IQCUz6b0DlreRr0PyKJP63TEAU3igjsXwtk26j8yIm3mDpA?e=lgxK5w",
+    "abstract": "ABNT"
+  },
+  {
+    "title": "COMPUTAÇÃO APLICADA À GESTÃO DA EDUCAÇÃO ",
+    "authors": "Pedro Paulo Neves Portella; Ana Caroline da Silva Vieira",
+    "journal": "SEMINÁRIO INTELIGÊNCIA ARTIFICIAL E EDUCAÇÃO",
+    "time": "2024",
+    "link": "https://www.worldcat.org/isbn/9786501040011",
+    "abstract": ""
+  },
+  {
+    "title": "Cozinhando um Artigo: Uma Receita Prática Para Escrever E Publicar O Seu Primeiro Artigo Científico",
+    "authors": "Pedro Paulo Neves Portella; Ana Caroline da Silva Vieira",
+    "journal": "Instituto Poder Computacional",
+    "time": "2026",
+    "link": "https://doi.org/10.5281/zenodo.18635230",
+    "abstract": "Descubra os fundamentos da escrita científica com este guia. Aprenda a estruturar artigos de excelência, explore métodos rigorosos de revisão bibliográfica e obtenha dicas práticas para planejamento de experimentos e análise crítica de dados. Transforme suas descobertas em relatórios claros para facilitar a validação por pares e a publicação em periódicos. Com este guia você vai explorar a base da escrita científica, você vai aprender como estruturar artigos científicos para contribuir com o avanço do conhecimento. Este livro define a introdução e a conclusão como os pilares essenciais para contextualizar um problema e sintetizar os achados da sua pesquisa, ele te oferece orientações práticas sobre o planejamento de experimentos, a análise crítica de dados e a interação com a comunidade acadêmica. Você vai conhecer os diversos métodos de revisão bibliográfica, como a sistemática, a narrativa e a integrativa, que permitem mapear o “estado da arte”. Ressaltamos que a produção científica não é um bicho de sete cabeças mas também não é “mamão com açúcar”, é uma prática que exige disciplina e pensamento crítico para superar as lacunas teóricas e propor novas perspectivas, é como a rapadura, é doce mas não é mole não! Mais informações acesse: https://podercomputacional.com.br"
+  },
+  {
+    "title": "EVOLUÇÃO DOS SISTEMAS COMPUTACIONAIS",
+    "authors": "Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti; Pedro Paulo Neves Portella",
+    "journal": "Seminário Nacional Multidisciplinar em Pesquisa Científica",
+    "time": "2025",
+    "link": "https://doi.org/10.29327/5665626",
+    "abstract": "Resumo"
+  },
+  {
+    "title": "INTELIGÊNCIA ARTIFICIAL GENERATIVA: AVANÇOS, APLICAÇÕES E DESAFIOS ÉTICOS NA ENGENHARIA DA COMPUTAÇÃO",
+    "authors": "Pedro Paulo Neves Portella",
+    "journal": "Anais da Jornada Científica da Engenharia, Arquitetura e Tecnologia",
+    "time": "2026",
+    "link": "https://doi.org/10.29327/9786527222309",
+    "abstract": ""
+  }
 
 
 	// {

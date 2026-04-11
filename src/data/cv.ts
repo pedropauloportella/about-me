@@ -139,15 +139,15 @@ export const bio = 'Graduando em Engenharia de Computação na Universidade Est�
 export const publications = [
   {
     "title": "Laboratório de Antropologia dos Processos de Formação – Lapf",
-    "authors": "Laboratório de Antropologia dos Process Lapf; Pedro Paulo Neves Portella; Pedro Paulo Neves Portella",
+    "authors": "Laboratório de Antropologia dos Process Lapf; Pedro Paulo Neves Portella",
     "journal": "Cadernos de Campo (São Paulo - 1991)",
     "time": "2011",
     "link": "https://doi.org/10.11606/issn.2316-9133.v20i20p351-353",
-    "abstract": "."
+    "abstract": "Apresentação do projeto de pesquisa."
   },
   {
     "title": "INOVAÇÃO, GESTÃO E TECNOLOGIAS EM SAÚDE: OS IMPACTOS DA INTELIGÊNCIA ARTIFICIAL SOBRE OS SERVIÇOS",
-    "authors": "Nelson Guilherme do Nascimento Hirschmann; Samantha Ferreira da Costa Moreira; José Nivon da Silva; Manoelise Linhares Ferreira Gomes; José Armir da Costa Neto; Amannda Oliveira Araújo; Pedro Paulo Neves Portella; Lucas José Vaz Schiavao; Alessandro Medeiros Pedro; Pedro Paulo Neves Portella",
+    "authors": "Pedro Paulo Neves Portella; Nelson Guilherme do Nascimento Hirschmann; Samantha Ferreira da Costa Moreira; José Nivon da Silva; Manoelise Linhares Ferreira Gomes; José Armir da Costa Neto; Amannda Oliveira Araújo;  Lucas José Vaz Schiavao; Alessandro Medeiros Pedro",
     "journal": "Revista DCS",
     "time": "2025",
     "link": "https://doi.org/10.54899/dcs.v22i84.3913",
@@ -155,7 +155,7 @@ export const publications = [
   },
   {
     "title": "Inovação e Transformação Digital na Educação: O Papel da Inteligência Artificial na Gestão e no Processo de Ensino e Aprendizagem",
-    "authors": "Silvia Gomes Correia; Luiz Gustavo Soares Silva; Lissia Maria Costa Gomes Protázio; Lidiane Soares Ferreira; Andressa Silva Guedes; Francisco das Chagas Sampaio Medina; Pedro Paulo Neves Portella; Francilino Paulo de Sousa",
+    "authors": "Pedro Paulo Neves Portella; Silvia Gomes Correia; Luiz Gustavo Soares Silva; Lissia Maria Costa Gomes Protázio; Lidiane Soares Ferreira; Andressa Silva Guedes; Francisco das Chagas Sampaio Medina; Francilino Paulo de Sousa",
     "journal": "Revista de Gestão e Secretariado",
     "time": "2026",
     "link": "https://doi.org/10.7769/gesec.v17i1.5521",
@@ -163,7 +163,7 @@ export const publications = [
   },
   {
     "title": "IMPORTÂNCIA DA ENGENHARIA DE SOFTWARE NO DESENVOLVIMENTO DE  PROJETOS",
-    "authors": "Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
+    "authors": "Pedro Paulo Neves Portella; Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
     "journal": "Anais do II Seminário Nacional Multidisciplinar em Pesquisa Científica",
     "time": "2025",
     "link": "https://doi.org/10.29327/5665626",
@@ -171,7 +171,7 @@ export const publications = [
   },
   {
     "title": "IMPORTÂNCIA DO PROFISSIONAL DE CIÊNCIAS DA COMPUTAÇÃO NO  DESENVOLVIMENTO DE SISTEMAS",
-    "authors": "Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
+    "authors": "Pedro Paulo Neves Portella; Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
     "journal": "Anais do II Seminário Nacional Multidisciplinar em Pesquisa Científica",
     "time": "2025",
     "link": "https://doi.org/10.29327/5665626",
@@ -179,7 +179,7 @@ export const publications = [
   },
   {
     "title": "COMPUTAÇÃO EM NUVEM E SEUS BENEFÍCIOS",
-    "authors": "Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
+    "authors": "Pedro Paulo Neves Portella; Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
     "journal": "Anais do II Seminário Nacional Multidisciplinar em Pesquisa Científica",
     "time": "2025",
     "link": "https://doi.org/10.29327/5665626",
@@ -187,7 +187,7 @@ export const publications = [
   },
   {
     "title": "LACUNAS NA FORMAÇÃO DOS PROFISSIONAIS DAS CIÊNCIAS DA  COMPUTAÇÃO",
-    "authors": "Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
+    "authors": "Pedro Paulo Neves Portella; Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
     "journal": "Anais do II Seminário Nacional Multidisciplinar em Pesquisa Científica",
     "time": "2025",
     "link": "https://doi.org/10.29327/5665626",
@@ -199,7 +199,7 @@ export const publications = [
     "journal": "Saúde Mental na Era Digital: Desafios e Intervenções.",
     "time": "2025",
     "link": "https://1drv.ms/b/c/6dc0c1962a277eb6/IQCUz6b0DlreRr0PyKJP63TEAU3igjsXwtk26j8yIm3mDpA?e=lgxK5w",
-    "abstract": "ABNT"
+    "abstract": "Capitulo de Livro"
   },
   {
     "title": "COMPUTAÇÃO APLICADA À GESTÃO DA EDUCAÇÃO ",
@@ -207,7 +207,7 @@ export const publications = [
     "journal": "SEMINÁRIO INTELIGÊNCIA ARTIFICIAL E EDUCAÇÃO",
     "time": "2024",
     "link": "https://www.worldcat.org/isbn/9786501040011",
-    "abstract": ""
+    "abstract": "Publicação em Anais"
   },
   {
     "title": "Cozinhando um Artigo: Uma Receita Prática Para Escrever E Publicar O Seu Primeiro Artigo Científico",
@@ -219,7 +219,7 @@ export const publications = [
   },
   {
     "title": "EVOLUÇÃO DOS SISTEMAS COMPUTACIONAIS",
-    "authors": "Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti; Pedro Paulo Neves Portella",
+    "authors": "; Pedro Paulo Neves Portella; Maiara Gadelha de Sousa; Humberto Nascimento Dias Santos Filho; Ítalo Martins Lôbo; Robson Silva Cacalvanti",
     "journal": "Seminário Nacional Multidisciplinar em Pesquisa Científica",
     "time": "2025",
     "link": "https://doi.org/10.29327/5665626",
@@ -228,7 +228,7 @@ export const publications = [
   {
     "title": "INTELIGÊNCIA ARTIFICIAL GENERATIVA: AVANÇOS, APLICAÇÕES E DESAFIOS ÉTICOS NA ENGENHARIA DA COMPUTAÇÃO",
     "authors": "Pedro Paulo Neves Portella",
-    "journal": "Anais da Jornada Científica da Engenharia, Arquitetura e Tecnologia",
+    "journal": "Anais da Jornada Científica da Engenharia, Arquitetura e Tecnologia JEATEC",
     "time": "2026",
     "link": "https://doi.org/10.29327/9786527222309",
     "abstract": ""

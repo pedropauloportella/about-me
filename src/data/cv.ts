@@ -38,18 +38,26 @@ export const experiences = [
 
 export const education = [
 	{
-		school: 'Universidade Estácio de Sá',
+		school: 'Universidade Estácio de Sá - UNESA',
 		time: '2030',
 		degree: 'Bacharel em Engenharia de Computação',
 		location: 'Rio de Janeiro, RJ',
 		description: 'Colabora com equipes multidisciplinares em ambientes diversificados, contribui para a evolução da tecnologia em setores como saúde, educação e sustentabilidade. Atua em diversas frentes, integrando conhecimentos de hardware e software para desenvolver soluções inovadoras. Suas atividades incluem o design e a implementação de sistemas embarcados, a criação de aplicativos baseados em inteligência artificial e aprendizado de máquina, e o gerenciamento de infraestrutura de redes e segurança cibernética. Também se envolve em projetos de automação industrial e Internet das Coisas (IoT). ',
 	},
 	{
-		school: 'Universidade Federal Do Rio de Janeiro UFRJ',
+		school: 'Universidade Federal Do Rio de Janeiro - UFRJ',
 		time: '2028',
 		degree: 'Licenciatura em Física',
 		location: 'Rio de Janeiro, RJ',
 		description: 'Desempenha um papel multifacetado, explorando tanto a educação quanto a pesquisa. Atuando como professor em escolas e treinamentos corporativos, utilizando tecnologias avançadas, como simulações computacionais e plataformas de ensino à distância, para tornar o aprendizado mais interativo e envolvente. Também emprega a utilização de ferramentas de análise de dados e modelagem matemática para resolver problemas complexos,',
+	},
+	{
+		school: 'Instituto Educacional Tecnológico Avançado da Amazônia - IETAAM',
+		time: '2020',
+		degree: 'Técnico em Eletrônica',
+		location: 'Manaus, AM',
+		description: 'Abrange fundamentos de circuitos elétricos e eletrônicos, análise e montagem de sistemas analógicos e digitais, além de conhecimentos em instrumentação, manutenção e diagnóstico de equipamentos. Desenvolvi competências em leitura e interpretação de esquemas, uso de instrumentos de medição e integração entre hardware e software, proporcionando uma base sólida para atuação em engenharia, automação e desenvolvimento de sistemas tecnológicos.
+',
 	},
 	// {
 	// 	school: 'University of Paris',
@@ -138,9 +146,9 @@ export const bio = 'Graduando em Engenharia de Computação na Universidade Est�
 
 export const publications = [
   {
-    "title": "Laboratório de Antropologia dos Processos de Formação – Lapf",
-    "authors": "Laboratório de Antropologia dos Process Lapf; Pedro Paulo Neves Portella",
-    "journal": "Cadernos de Campo (São Paulo - 1991)",
+    "title": "Laboratório de Antropologia dos Processos de Formação – PUC-Rio",
+    "authors": "Laboratório de Antropologia dos Process LAPF; Pedro Paulo Neves Portella",
+    "journal": "Cadernos de Campo - USP (São Paulo - 1991)",
     "time": "2011",
     "link": "https://doi.org/10.11606/issn.2316-9133.v20i20p351-353",
     "abstract": "Apresentação do projeto de pesquisa."
@@ -204,7 +212,7 @@ export const publications = [
   {
     "title": "COMPUTAÇÃO APLICADA À GESTÃO DA EDUCAÇÃO ",
     "authors": "Pedro Paulo Neves Portella; Ana Caroline da Silva Vieira",
-    "journal": "SEMINÁRIO INTELIGÊNCIA ARTIFICIAL E EDUCAÇÃO",
+    "journal": "SEMINÁRIO INTELIGÊNCIA ARTIFICIAL E EDUCAÇÃO da UERJ",
     "time": "2024",
     "link": "https://www.worldcat.org/isbn/9786501040011",
     "abstract": "Publicação em Anais"

@@ -4,11 +4,27 @@ export const profile = {
 	institute: 'Instituto Poder Computacional',
 	author_name: 'Pedro Paulo Neves Portella', // Author name to be highlighted in the papers section
 	research_areas: [
-		{ title: 'Computer Engneering', description: 'Brief description of the research interest', field: 'Computational' }, 
-		{ title: 'Physics Education', description: 'Brief description of the research interest', field: 'Computational' },
-		{ title: 'Artificial Inteligence', description: 'Brief description of the research interest', field: 'Computational' }
-		 
-	],
+		{
+			title: 'Computação Científica',
+			description: 'Aplicação de métodos computacionais para modelagem matemática, simulações, análise de dados científicos e visualização de fenômenos complexos.',
+			field: 'Computação Científica'
+  		},
+		{
+			title: 'Inteligência Artificial Aplicada',
+			description: 'Desenvolvimento e aplicação de técnicas de inteligência artificial em sistemas web, educacionais e de automação, incluindo recomendação, análise de dados e assistentes inteligentes.',
+			field: 'Inteligência Artificial'   
+		},
+		{
+			title: 'Engenharia de Computação',
+			description: 'Integração entre hardware e software para o desenvolvimento de sistemas computacionais completos, incluindo sistemas embarcados, arquitetura de computadores, eletrônica digital e soluções computacionais aplicadas.',
+			field: 'Engenharia de Computação'
+		},
+		{
+			title: "Computação Aplicada à Educação (EdTech)", 
+			description: "Pesquisa sobre uso de tecnologias digitais no ensino, incluindo gamificação, plataformas educacionais, aprendizado adaptativo e ferramentas para ensino de STEM.",
+			field: "Tecnologia Educacional"   
+		}
+	]
 }
 
 // Set equal to an empty string to hide the icon that you don't want to display

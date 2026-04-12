@@ -56,8 +56,7 @@ export const education = [
 		time: '2020',
 		degree: 'Técnico em Eletrônica',
 		location: 'Manaus, AM',
-		description: 'Abrange fundamentos de circuitos elétricos e eletrônicos, análise e montagem de sistemas analógicos e digitais, além de conhecimentos em instrumentação, manutenção e diagnóstico de equipamentos. Desenvolvi competências em leitura e interpretação de esquemas, uso de instrumentos de medição e integração entre hardware e software, proporcionando uma base sólida para atuação em engenharia, automação e desenvolvimento de sistemas tecnológicos.
-',
+		description: 'Abrange fundamentos de circuitos elétricos e eletrônicos, análise e montagem de sistemas analógicos e digitais, além de conhecimentos em instrumentação, manutenção e diagnóstico de equipamentos. Desenvolvi competências em leitura e interpretação de esquemas, uso de instrumentos de medição e integração entre hardware e software, proporcionando uma base sólida para atuação em engenharia, automação e desenvolvimento de sistemas tecnológicos.'
 	},
 	// {
 	// 	school: 'University of Paris',

@@ -9,7 +9,7 @@ const ALL_PAPERS = publications; // This will be replaced with dynamic data late
 
 <Layout title="Papers">
   <div class="prose max-w-none">
-    <h1 class="text-3xl font-bold mb-8">Publications</h1>
+    <h1 class="text-3xl font-bold mb-8">Publicações</h1>
 
     <div class="space-y-8">
       {
@@ -22,7 +22,7 @@ const ALL_PAPERS = publications; // This will be replaced with dynamic data late
                 </a>
               </h2>
               <p class="text-base mb-2">
-                <span class="font-medium">Authors:</span>{" "}
+                <span class="font-medium">Autores:</span>{" "}
                 <span id="author" set:html={highlightAuthor(paper.authors)} />
               </p>
               <p class="text-sm mb-3">

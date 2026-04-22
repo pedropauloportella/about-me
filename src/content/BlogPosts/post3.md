@@ -129,4 +129,4 @@ Aqui está a lista das empresas presentes no Distrito Industrial de Campo Grande
 
 Estas empresas são articuladas e representadas pela **ADEDI** (Associação das Empresas do Distrito Industrial), desempenham um papel fundamental como **âncoras** para o setor industrial regional, fornecendo desafios reais para o desenvolvimento de novas tecnologias e absorvendo mão de obra qualificada.
 
-👉 [QUERO PARTICIPAR DO PROJETO](https://seulink.com)
+👉 **[QUERO PARTICIPAR DO PROJETO](https://seulink.com)**

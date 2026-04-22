@@ -103,49 +103,27 @@ Se bem executado, o projeto evolui para:
 
 Se você quer ir além da teoria, participar de algo concreto, relevante e com potencial real de impacto: O Projeto **CHÃO DE FÁBRICA** é o seu lugar.
 
-Aqui está a lista atualizada das empresas do Distrito Industrial de Campo Grande, incluindo os links diretos para seus sites oficiais e um resumo de suas atividades:
+Aqui está a lista atualizada das empresas do Distrito Industrial de Campo Grande, incluindo os links diretos para seus s oficiais e um resumo de suas atividades:
 
 ### **Empresas do Distrito Industrial de Campo Grande RJ**
 
-| EMPRESA | RESUMO DAS ATIVIDADES |
-| :--- | :--- |
-| **[Alfaparf (Delly Kosmetic)]**(https://exemplo.com) | Indústria voltada para a fabricação de **cosméticos e produtos químicos**. |
-| **AMBEV** | Grande indústria do setor de **bebidas**, cujas práticas tecnológicas são objeto de estudo acadêmico no polo. |
-| **Artlatex** | Empresa do setor industrial presente no distrito. |
-| **AVVA Química** | Atua no estudo e fabricação de **processos químicos e cosméticos**. |
-| **Convenção** | Indústria do setor de **bebidas**, especificamente refrigerantes. |
-| **Craft** | Empresa do segmento de **manufatura e engenharia**, com foco em desafios de automação e manutenção. |
-| **Denge** | Atua na área de **engenharia industrial**, participando de projetos de modernização e manutenção. |
-| **Flowserve** | Especializada em **tecnologia de válvulas** e manutenção industrial, com ênfase em soluções de automação e eficiência. |
-| **Ketlog** | Gestora da cadeia de suprimentos e **transporte de cargas portuárias**. É a empresa responsável pela infraestrutura do **Galpão Hermes**. |
-| **Polimix** | Indústria de **materiais de construção**, com foco em concreto e soluções para o setor de insumos. |
-| **Pramar** | Empresa que compõe o cluster de **manufatura e engenharia** do distrito. |
-| **Quaker Houghton** | Indústria do setor de **produtos químicos e fluidos industriais**. |
-| **Supermix** | Atua na área de engenharia civil, com destaque para práticas de **concretagem e infraestrutura logística**. |
-| **Superpesa** | Empresa focada em **materiais de construção, insumos e logística de carga pesada**. |
-| **WNET** | Provedora de serviços de **tecnologia e conectividade**, oferecendo suporte à infraestrutura de TI do ecossistema. |
-
-
-
-
-
-| EMPRESA | RESUMO DAS ATIVIDADES | LINK OFICIAL |
+| EMPRESA | RESUMO DAS ATIVIDADES | LINK |
 | :--- | :--- | :--- |
-| **Alfaparf (Delly Kosmetic)** | Indústria de fabricação de **cosméticos e produtos químicos**. | [Acessar Site](https://www.alfaparfmilano.com/pt-pt/grupo/onde-estamos) |
-| **AMBEV** | Grande indústria do setor de **bebidas** e referência em práticas tecnológicas. | [Acessar Site](https://www.ambev.com.br/sobre-ambev) |
-| **Artlatex** | Empresa atuante no **setor industrial** do distrito. | [Acessar Site](https://artlatex.com.br/sobre-nos/) |
-| **AVVA Química** | Atua no estudo e fabricação de **processos químicos e cosméticos**. | [Acessar Site](https://www.avva.com.br/sobre-nos/) |
-| **Convenção** | Indústria do setor de **bebidas**, focada na produção de refrigerantes. | [Acessar Site](https://www.refrigerantesconvencao.com.br/sobre-a-convencao/) |
-| **Craft** | Empresa de **manufatura e engenharia**, focada em automação e manutenção. | [Acessar Site](https://www.craftengenharia.com.br/sobre/) |
-| **Denge** | Atua em **engenharia industrial**, projetos de modernização e manutenção. | [Acessar Site](https://www.denge.com.br/UI/adenge.asp) |
-| **Flowserve** | Especializada em **tecnologia de válvulas**, manutenção e automação industrial. | [Acessar Site](https://flowservevalvulas.com.br/) |
-| **Ketlog** | Gestão de suprimentos e **transporte de cargas portuárias**; opera o **Galpão Hermes**. | [Acessar Site](http://ketlog.com.br) |
-| **Polimix** | Indústria de **materiais de construção**, com foco em concreto e insumos. | [Acessar Site](https://polimixconcreto.com.br/sobre/sobre.html) |
-| **Pramar** | Empresa do cluster de **manufatura e engenharia** do polo. | [Acessar Site](https://pramarcarioca.com.br/#quemsomos) |
-| **Quaker Houghton** | Indústria voltada para a produção de **produtos químicos e fluidos industriais**. | [Acessar Site](https://home.quakerhoughton.com/pt-br/) |
-| **Supermix** | Atua em engenharia civil com práticas de **concretagem e infraestrutura**. | [Acessar Site](https://www.supermix.com.br/a-supermix/) |
-| **Superpesa** | Focada em **materiais de construção** e logística de cargas pesadas. | [Acessar Site](https://www.superpesa.com.br/historia.html) |
-| **WNET** | Provedora de **tecnologia e conectividade**, apoiando a infraestrutura de TI. | [Acessar Site](https://www.wnet.net.br/) |
+| **Alfaparf (Delly Kosmetic)** | Indústria de fabricação de **cosméticos e produtos químicos**. | [Acessar ](https://www.alfaparfmilano.com/pt-pt/grupo/onde-estamos) |
+| **AMBEV** | Grande indústria do setor de **bebidas** e referência em práticas tecnológicas. | [Acessar ](https://www.ambev.com.br/sobre-ambev) |
+| **Artlatex** | Empresa atuante no **setor industrial** do distrito. | [Acessar ](https://artlatex.com.br/sobre-nos/) |
+| **AVVA Química** | Atua no estudo e fabricação de **processos químicos e cosméticos**. | [Acessar ](https://www.avva.com.br/sobre-nos/) |
+| **Convenção** | Indústria do setor de **bebidas**, focada na produção de refrigerantes. | [Acessar ](https://www.refrigerantesconvencao.com.br/sobre-a-convencao/) |
+| **Craft** | Empresa de **manufatura e engenharia**, focada em automação e manutenção. | [Acessar ](https://www.craftengenharia.com.br/sobre/) |
+| **Denge** | Atua em **engenharia industrial**, projetos de modernização e manutenção. | [Acessar ](https://www.denge.com.br/UI/adenge.asp) |
+| **Flowserve** | Especializada em **tecnologia de válvulas**, manutenção e automação industrial. | [Acessar ](https://flowservevalvulas.com.br/) |
+| **Ketlog** | Gestão de suprimentos e **transporte de cargas portuárias**; opera o **Galpão Hermes**. | [Acessar ](http://ketlog.com.br) |
+| **Polimix** | Indústria de **materiais de construção**, com foco em concreto e insumos. | [Acessar ](https://polimixconcreto.com.br/sobre/sobre.html) |
+| **Pramar** | Empresa do cluster de **manufatura e engenharia** do polo. | [Acessar ](https://pramarcarioca.com.br/#quemsomos) |
+| **Quaker Houghton** | Indústria voltada para a produção de **produtos químicos e fluidos industriais**. | [Acessar ](https://home.quakerhoughton.com/pt-br/) |
+| **Supermix** | Atua em engenharia civil com práticas de **concretagem e infraestrutura**. | [Acessar ](https://www.supermix.com.br/a-supermix/) |
+| **Superpesa** | Focada em **materiais de construção** e logística de cargas pesadas. | [Acessar ](https://www.superpesa.com.br/historia.html) |
+| **WNET** | Provedora de **tecnologia e conectividade**, apoiando a infraestrutura de TI. | [Acessar ](https://www.wnet.net.br/) |
 
 Estas empresas são peças-chave no ecossistema de inovação e são representadas pela **ADEDI** (Associação das Empresas do Distrito Industrial), desempenham um papel fundamental na aplicação de soluções industriais modernas. São **âncoras** para o setor industrial regional, fornecendo desafios reais para o desenvolvimento de novas tecnologias e absorvendo mão de obra qualificada.
 

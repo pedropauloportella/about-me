@@ -1,5 +1,5 @@
 ---
-title: "Projeto Chão de Fábrica"
+title: "PROJETO CHÃO DE FÁBRICA"
 date: "2026-04-22"
 tags: ["Engenharia", "ESG", "Pesquisa Científica"]
 excerpt: "Uma plataforma de análise, inovação e produção de conhecimento aplicada ao desenvolvimento industrial sustentável no Distrito Industrial de Campo Grande - RJ."
@@ -8,7 +8,6 @@ author: "Pedro Paulo Neves Portella"
 
 
 
-# **CHÃO de FÁBRICA**
 ![Distrito Industrial de Campo Grande RJ.](../../assets/distrito-industrial-campo-grande-rio-de-janeiro.png)
 
 Vivemos em um cenário onde a indústria precisa ser **mais eficiente, mais sustentável e mais transparente**.
@@ -16,9 +15,8 @@ Ao mesmo tempo, universidades formam profissionais com forte base teórica — m
 
 Essa desconexão gera uma perda enorme de valor.
 
----
 
-## 💡 **A solução**
+## 💡 **A SOLUÇÃO**
 
 O **Projeto CHÃO DE FÁBRICA** nasce para conectar esses dois mundos.
 
@@ -29,9 +27,9 @@ levar equipes interdisciplinares de universitários para dentro de empresas do d
 
 ---
 
-## 🔍 **O que fazemos na prática?**
+## 🔍 **O QUE FAZEMOS NA PRÁTICA?**
 
-Durante as visitas, os participantes:
+Durante as visitas, os membros da equipe:
 
 * Mapeiam processos produtivos
 * Analisam as tecnologias utilizadas
@@ -41,13 +39,13 @@ Durante as visitas, os participantes:
 
 ---
 
-## 📘 **O grande diferencial**
+## 📘 **O GRANDE DIFERENCIAL**
 
 Tudo isso não fica apenas no aprendizado individual.
 
 O projeto culmina na publicação de um livro técnico-científico:
 
-**“Indústria, Memória e Território de Inovação: Práticas e Desafios da Engenharia no Distrito Industrial de Campo Grande”**
+>**“Indústria, Memória e Território de Inovação: Práticas e Desafios da Engenharia no Distrito Industrial de Campo Grande”**
 
 Cada participante se torna autor de um capítulo, consolidando:
 
@@ -57,21 +55,21 @@ Cada participante se torna autor de um capítulo, consolidando:
 
 ---
 
-## 🚀 **Por que isso importa?**
+## 🚀 **POR QUE ISSO IMPORTA?**
 
-Para os estudantes:
+**Para os estudantes**:
 
 * Experiência prática de alto nível e reconhecimento acadêmico
 * Contato direto com a indústria
 * Construção de portfólio relevante
 
-Para as empresas:
+**Para as empresas**:
 
 * Visibilidade qualificada
 * Insights sobre seus processos
 * Apoio indireto em seus desafios ESG
 
-Para a região:
+**Para a região**:
 
 * Mapeamento inédito do ecossistema industrial
 * Estímulo à inovação local
@@ -79,7 +77,7 @@ Para a região:
 
 ---
 
-## 🧠 **O que torna esse projeto único?**
+## 🧠 **O QUE TORNA ESSE PROJETO ÚNICO?**
 
 Não é uma visita técnica comum!
 Não é apenas pesquisa acadêmica!
@@ -91,7 +89,7 @@ Não é apenas pesquisa acadêmica!
 
 ---
 
-## ⚡ **Visão de futuro**
+## ⚡ **VISÃO DE FUTURO**
 
 Se bem executado, o projeto evolui para:
 
@@ -101,7 +99,7 @@ Se bem executado, o projeto evolui para:
 
 ---
 
-## 🎯 **Convite**
+## 🎯 **CONVITE ESPECIAL **
 
 Se você quer ir além da teoria, participar de algo concreto, relevante e com potencial real de impacto:
 

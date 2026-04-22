@@ -8,7 +8,8 @@ author: "Pedro Paulo Neves Portella"
 
 
 
-## **CHÃO de FÁBRICA**
+# **CHÃO de FÁBRICA**
+![Distrito Industrial de Campo Grande RJ.](../../assets/distrito-industrial-campo-grande-rio-de-janeiro.png)
 
 Vivemos em um cenário onde a indústria precisa ser **mais eficiente, mais sustentável e mais transparente**.
 Ao mesmo tempo, universidades formam profissionais com forte base teórica — mas ainda distantes dos desafios reais do setor produtivo.
@@ -105,5 +106,28 @@ Se bem executado, o projeto evolui para:
 Se você quer ir além da teoria, participar de algo concreto, relevante e com potencial real de impacto:
 
 > o Projeto **CHÃO DE FÁBRICA** é o seu lugar.
+Aqui está a lista das empresas presentes no Distrito Industrial de Campo Grande, conforme descrito nas fontes, com um breve resumo de suas atividades e áreas de atuação:
+
+### **Empresas do Distrito Industrial de Campo Grande**
+
+| Empresa | Resumo das Atividades |
+| :--- | :--- |
+| **Alfaparf (Delly Kosmetic)** | Indústria voltada para a fabricação de **cosméticos e produtos químicos**. |
+| **AMBEV** | Grande indústria do setor de **bebidas**, cujas práticas tecnológicas são objeto de estudo acadêmico no polo. |
+| **Artlatex** | Empresa do setor industrial presente no distrito. |
+| **AVVA Química** | Atua no estudo e fabricação de **processos químicos e cosméticos**. |
+| **Convenção** | Indústria do setor de **bebidas**, especificamente refrigerantes. |
+| **Craft** | Empresa do segmento de **manufatura e engenharia**, com foco em desafios de automação e manutenção. |
+| **Denge** | Atua na área de **engenharia industrial**, participando de projetos de modernização e manutenção. |
+| **Flowserve** | Especializada em **tecnologia de válvulas** e manutenção industrial, com ênfase em soluções de automação e eficiência. |
+| **Ketlog** | Gestora da cadeia de suprimentos e **transporte de cargas portuárias**. É a empresa responsável pela infraestrutura do **Galpão Hermes**. |
+| **Polimix** | Indústria de **materiais de construção**, com foco em concreto e soluções para o setor de insumos. |
+| **Pramar** | Empresa que compõe o cluster de **manufatura e engenharia** do distrito. |
+| **Quaker Houghton** | Indústria do setor de **produtos químicos e fluidos industriais**. |
+| **Supermix** | Atua na área de engenharia civil, com destaque para práticas de **concretagem e infraestrutura logística**. |
+| **Superpesa** | Empresa focada em **materiais de construção, insumos e logística de carga pesada**. |
+| **WNET** | Provedora de serviços de **tecnologia e conectividade**, oferecendo suporte à infraestrutura de TI do ecossistema. |
+
+Estas empresas são articuladas e representadas pela **ADEDI** (Associação das Empresas do Distrito Industrial), desempenham um papel fundamental como **âncoras** para o setor industrial regional, fornecendo desafios reais para o desenvolvimento de novas tecnologias e absorvendo mão de obra qualificada.
 
 CLIQUE AQUI E PARTICIPE

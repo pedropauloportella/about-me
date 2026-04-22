@@ -45,7 +45,7 @@ Tudo isso não fica apenas no aprendizado individual.
 
 O projeto culmina na publicação de um livro técnico-científico:
 
->**“Indústria, Memória e Território de Inovação: Práticas e Desafios da Engenharia no Distrito Industrial de Campo Grande”**
+>**Indústria, Memória e Território de Inovação: Práticas e Desafios da Engenharia no Distrito Industrial de Campo Grande**
 
 Cada participante se torna autor de um capítulo, consolidando:
 
@@ -107,9 +107,9 @@ Aqui está a lista das empresas presentes no Distrito Industrial de Campo Grande
 
 ### **Empresas do Distrito Industrial de Campo Grande RJ**
 
-| Empresa | Resumo das Atividades |
+| EMPRESA | RESUMO DAS ATIVIDADES |
 | :--- | :--- |
-| **Alfaparf (Delly Kosmetic)** | Indústria voltada para a fabricação de **cosméticos e produtos químicos**. |
+| [**Alfaparf (Delly Kosmetic)**](https://exemplo.com) | Indústria voltada para a fabricação de **cosméticos e produtos químicos**. |
 | **AMBEV** | Grande indústria do setor de **bebidas**, cujas práticas tecnológicas são objeto de estudo acadêmico no polo. |
 | **Artlatex** | Empresa do setor industrial presente no distrito. |
 | **AVVA Química** | Atua no estudo e fabricação de **processos químicos e cosméticos**. |

@@ -101,9 +101,7 @@ Se bem executado, o projeto evolui para:
 
 ## 🎯 **CONVITE ESPECIAL**
 
-Se você quer ir além da teoria, participar de algo concreto, relevante e com potencial real de impacto:
-
-> o Projeto **CHÃO DE FÁBRICA** é o seu lugar.
+Se você quer ir além da teoria, participar de algo concreto, relevante e com potencial real de impacto: O Projeto **CHÃO DE FÁBRICA** é o seu lugar.
 
 Aqui está a lista das empresas presentes no Distrito Industrial de Campo Grande, com um breve resumo de suas atividades e áreas de atuação:
 

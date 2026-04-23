@@ -107,6 +107,7 @@ Aqui está a lista atualizada das empresas do Distrito Industrial de Campo Grand
 
 ### **Empresas do Distrito Industrial de Campo Grande RJ**
 
+
 | EMPRESA | RESUMO DAS ATIVIDADES | LINK |
 | :--- | :--- | :--- |
 | **Alfaparf (Delly Kosmetic)** | Indústria de fabricação de **cosméticos e produtos químicos**. | [Acessar ](https://www.alfaparfmilano.com/pt-pt/grupo/onde-estamos) |
@@ -127,4 +128,6 @@ Aqui está a lista atualizada das empresas do Distrito Industrial de Campo Grand
 
 Estas empresas são peças-chave no ecossistema de inovação e são representadas pela **ADEDI** (Associação das Empresas do Distrito Industrial), desempenham um papel fundamental na aplicação de soluções industriais modernas. São **âncoras** para o setor industrial regional, fornecendo desafios reais para o desenvolvimento de novas tecnologias e absorvendo mão de obra qualificada.
 
-👉 **[QUERO PARTICIPAR DO PROJETO](https://seulink.com)**
+👉 **[QUERO PARTICIPAR DO PROJETO](https://forms.gle/npe1yHKfSLGFij8H6)**
+
+Ainda tem dúvidas? [Clique aqui](https://docs.google.com/document/d/1kO05i1uocbxD-jAQtD6ULU29ChQel3XlUdvI2nYJSqs/edit?usp=sharing) e veja um texto mais detalhado!

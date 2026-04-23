@@ -10,7 +10,6 @@
     "deploy": "npm run build",
   },
   "dependencies": {
-    
     "@astrojs/react": "^4.1.4",
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.2.1",

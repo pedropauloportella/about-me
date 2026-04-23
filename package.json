@@ -8,7 +8,6 @@
     "preview": "npm run build",
     "astro": "astro",
     "deploy": "npm run build",
-    
   },
   "dependencies": {
     

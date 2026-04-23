@@ -4,14 +4,14 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && echo '_worker.js' >> dist/.assetsignore",
-    "preview": "npm run build && wrangler dev",
+    "build": "astro build",
+    "preview": "npm run build",
     "astro": "astro",
-    "deploy": "npm run build && wrangler deploy",
-    "cf-typegen": "wrangler types"
+    "deploy": "npm run build",
+    
   },
   "dependencies": {
-    "@astrojs/cloudflare": "12",
+    
     "@astrojs/react": "^4.1.4",
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.2.1",
@@ -27,6 +27,6 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.16",
     "daisyui": "^4.12.23",
-    "wrangler": "^4.84.1"
+  
   }
 }

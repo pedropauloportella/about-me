@@ -143,15 +143,16 @@ export const bio = 'Graduando em Engenharia de Computação na Universidade Est�
 	
 
 
-export const publications = [
+export const publications = [ 
   {
-    "title": "Laboratório de Antropologia dos Processos de Formação – PUC-Rio",
-    "authors": "Laboratório de Antropologia dos Process LAPF; Pedro Paulo Neves Portella",
-    "journal": "Cadernos de Campo - USP (São Paulo - 1991)",
-    "time": "2011",
-    "link": "https://doi.org/10.11606/issn.2316-9133.v20i20p351-353",
-    "abstract": "Apresentação do projeto de pesquisa."
+    "title": "GESTÃO ESCOLAR E TECNOLOGIAS DIGITAIS: ANÁLISE DA APLICABILIDADE DA INTELIGÊNCIA ARTIFICIAL E OS RISCOS DE SEGURANÇA DIGITAL ",
+    "authors": "Pedro Paulo Neves Portella; Ana Caroline da Silva Vieira",
+    "journal": "Veredas do Direito",
+    "time": "2026",
+    "link": "https://doi.org/10.18623/rvd.v23.6323",
+    "abstract": "O presente estudo teve como objetivo analisar a aplicabilidade da inteligência artificial na gestão escolar, considerando suas potencialidades de inovação e os riscos associados à segurança digital no contexto educacional. Metodologicamente, trata-se de uma revisão integrativa da literatura, estruturada a partir da estratégia PICO e orientada pelas diretrizes do protocolo PRISMA, com buscas nas bases SciELO, Scopus, DOAJ e Google Acadêmico, utilizando descritores combinados por operadores booleanos e critérios de inclusão restritos a artigos em língua portuguesa, brasileiros, disponíveis gratuitamente, em texto completo e publicados entre 2023 e 2024. Os resultados evidenciam uma organização analítica estruturada em oito categorias (Q1 a Q8), distribuídas em duas macrodimensões interdependentes: no eixo Q1-Q4, observa-se a reconfiguração dos processos de gestão educacional, marcada pela digitalização da administração escolar, pela assimetria na capacidade institucional e maturidade digital, pela insuficiência de letramento digital e capacitação em IA e pela consolidação da gestão orientada por dados (data-driven management), evidenciando um processo de transformação técnico-organizacional sustentado por automação, análise de dados e reorganização dos fluxos decisórios. No eixo Q5-Q8, destacam-se os desafios relacionados à segurança digital, incluindo vulnerabilidades cibernéticas institucionais, riscos algorítmicos e problemas de privacidade informacional, dependência tecnológica com possível redução da autonomia decisória humana e fragilidade normativa em cibersegurança educacional, o que evidencia um cenário de tensões entre inovação tecnológica, riscos éticos e insuficiência regulatória. Conclui-se que a inteligência artificial configura-se como um vetor de reestruturação da gestão escolar, cuja efetividade depende da articulação entre maturidade tecnológica, formação profissional e fortalecimento de políticas de segurança digital e governança da informação."
   },
+  
   {
     "title": "INOVAÇÃO, GESTÃO E TECNOLOGIAS EM SAÚDE: OS IMPACTOS DA INTELIGÊNCIA ARTIFICIAL SOBRE OS SERVIÇOS",
     "authors": "Pedro Paulo Neves Portella; Nelson Guilherme do Nascimento Hirschmann; Samantha Ferreira da Costa Moreira; José Nivon da Silva; Manoelise Linhares Ferreira Gomes; José Armir da Costa Neto; Amannda Oliveira Araújo;  Lucas José Vaz Schiavao; Alessandro Medeiros Pedro",
@@ -239,6 +240,14 @@ export const publications = [
     "time": "2026",
     "link": "https://doi.org/10.29327/9786527222309",
     "abstract": ""
+  },
+  {
+    "title": "Laboratório de Antropologia dos Processos de Formação – PUC-Rio",
+    "authors": "Laboratório de Antropologia dos Process LAPF; Pedro Paulo Neves Portella",
+    "journal": "Cadernos de Campo - USP (São Paulo - 1991)",
+    "time": "2011",
+    "link": "https://doi.org/10.11606/issn.2316-9133.v20i20p351-353",
+    "abstract": "Apresentação do projeto de pesquisa."
   }
 
 
